@@ -167,9 +167,24 @@ Smart-Garage-System/
 │
 └── README.md
 ```
+---
+
+# 🔗 Full Project Post on LinkedIn
+
+Want to see the full project story, presentation highlights, and final moments?
+
+<div align="center">
+
+### 🚀 View the Complete Project Post
+
+[![LinkedIn Post](https://img.shields.io/badge/View%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/aminah7med_our-project-moments-ugcPost-7328049185646108673-Ve27?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFE6PugBStMzhZMKNtlqLtrt7cDV7tqiSsU)
+
+</div>
+
+---
 
 ---
 
 # 📜 License
 
-Academic project — Faculty of Information Technology & Computer Science (2024–2025)
+Academic project — Faculty of Information Technology & Computer Science(2024–2025)
