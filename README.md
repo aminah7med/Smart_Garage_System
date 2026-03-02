@@ -35,8 +35,7 @@ The system:
 
 ## 🔷 Block Diagram
 
-![Block Diagram](images/images/Block_Diagram.png)
-
+![Block Diagram](images/block_diagram.png)
 ---
 
 # 🔧 Hardware Implementation
