@@ -35,7 +35,7 @@ The system:
 
 ## 🔷 Block Diagram
 
-![Block Diagram](images/block_diagram.png)
+![Block Diagram](images/images/Block_Diagram.png)
 
 ---
 
